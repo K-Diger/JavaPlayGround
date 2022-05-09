@@ -1,4 +1,4 @@
-package GuGuDanV6;
+package GuGuDan.GuGuDanV6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package GuGuDanV1;
+package GuGuDan.GuGuDanV1;
 
 
 //구구단 2단 3단 출력하기

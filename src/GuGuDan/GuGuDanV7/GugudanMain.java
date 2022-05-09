@@ -1,4 +1,4 @@
-package GuGuDanV7;
+package GuGuDan.GuGuDanV7;
 
 //요구사항
 //
